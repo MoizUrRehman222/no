@@ -1,4 +1,4 @@
-
+ 
 div{background-color: #ffffff  ;}
 body{margin: 0; text-align: center; color: #40514E; }
 h1 {margin: 50px auto 0px auto; font-family: 'Sacramento', cursive; font-size: 90px;color: #66bfbf;line-height: 1;}
@@ -9,7 +9,7 @@ p {font-family: 'Montserrat', sans-serif; color: #40514E;}
 .top-cloud {position:absolute;right: 300px;top: 50px;}
 .bottom-cloud{position:absolute; bottom: 300px;left: 300px;}
 .froggie{padding-top: 40px; width: 10%;}
-.middle-container{margin: 100px 0;  background-color:#FFFBF5 ; }
+.middle-container{margin: 100px 0;    }
 .bottom-container{background-color: #66bfbf; padding: 50px 0 20px; }
 .web-developer{font-size: 2.5rem; color:#66bfbf ;font-family: 'Montserrat', sans-serif; font-weight: normal; padding-bottom: 10px; }
 a {
